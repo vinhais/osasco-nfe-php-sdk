@@ -1,0 +1,15 @@
+{
+    "name": "vinhais/osasco-nfe-php-sdk",
+    "autoload": {
+        "psr-4": {
+            "Vinhais\\OsascoNfePhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "gabriel.vinhais5@gmail.com"
+        }
+    ],
+    "require": {}
+}
